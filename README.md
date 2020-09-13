@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# I'm Sezgin. 
 <!--
 **E2228-Sezgin/E2228-Sezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
